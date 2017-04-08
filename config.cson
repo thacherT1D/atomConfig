@@ -1,0 +1,39 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    disabledPackages: [
+      "react"
+      "less-autocompile"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontFamily: "Menlo"
+    invisibles: {}
+    preferredLineLength: 200
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "463a2930-e5f2-0550-67a3-1b80ed83e7da"
+  "open-in-browsers":
+    LocalHost: false
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".babel.regexp.source":
+  editor:
+    preferredLineLength: 200
+".js.jsx.source":
+  editor:
+    preferredLineLength: 200
+".js.regexp.replacement.source":
+  editor:
+    preferredLineLength: 200
+".js.regexp.source":
+  editor:
+    preferredLineLength: 200
+".js.source":
+  editor:
+    preferredLineLength: 200
+".languagebabel.ttlextension":
+  editor:
+    preferredLineLength: 200
